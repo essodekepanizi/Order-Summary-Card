@@ -51,6 +51,7 @@
   bottom: 90px;
   right: 35px;
   font-size: 15px;
+  color: Gray;
 }
 .changeplan{
   position: relative;
@@ -67,6 +68,7 @@
   text-decoration: none;
   color: Black;
   opacity: 0.5;
+  font-family: "Red Hat Display", cursive;
 
 }
 
