@@ -26,7 +26,7 @@
   }
   .p1{
     color: Gray;
-    padding:0px 20px 0px;
+    padding:0px 50px 0px;
     font-size: 16px;
   }
   .font{
@@ -64,7 +64,7 @@
 
 .Cancel{
   position: relative;
-  left: 130px;
+  left: 170px;
   text-decoration: none;
   color: Black;
   opacity: 0.5;
