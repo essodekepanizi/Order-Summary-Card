@@ -25,13 +25,13 @@ Users should be able to:
 
 ### Screenshot
 
-(screenshot.png)
+../Screenshot Order Summary Card solution.png
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/essodekepanizi/Order-Summary-Card/)
-- Live Site URL: [Add live site URL here](https://essodekepanizi.github.io/Order-Summary-Card/)
+- Solution URL: [Find the code solution here](https://github.com/essodekepanizi/Order-Summary-Card/)
+- Live Site URL: [Find the live site here](https://essodekepanizi.github.io/Order-Summary-Card/)
 
 ## My process
 
