@@ -1,0 +1,108 @@
+
+  .attribution { font-size: 11px; text-align: center; }
+  .attribution a { color: hsl(228, 45%, 44%); }
+  .container {
+    background-color: hsl(225, 100%, 98%);
+    margin-top: 80px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 350px;
+    border-radius: 15px;
+    border-style: solid;
+    border-color: hsl(225, 100%, 94%);
+    border-width: thin;
+    padding-bottom: 20px;
+    margin-bottom: 40px;
+    box-shadow: 0px 10px 30px hsl(225, 100%, 85%);
+  }
+  .plan-container{
+    background-color: hsl(225, 100%, 96%);
+    border-radius: 10px;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    height: 75px;
+
+  }
+  .p1{
+    color: Gray;
+    padding:0px 20px 0px;
+    font-size: 16px;
+  }
+  .font{
+    font-family: "Red Hat Display", cursive;
+
+
+  }
+  .illustration{
+    width: inherit;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+  }
+
+  .icon-music{
+      margin: 10px;
+      position: relative;
+    top: 5px;
+  }
+.pricing{
+  position: relative;
+  bottom: 90px;
+  right: 35px;
+  font-size: 15px;
+}
+.changeplan{
+  position: relative;
+  left: 230px;
+  bottom: 130px;
+}
+.changeplan:hover{
+  opacity: 0.5;
+}
+
+.Cancel{
+  position: relative;
+  left: 130px;
+  text-decoration: none;
+  color: Black;
+  opacity: 0.5;
+
+}
+
+.Cancel:hover {
+  opacity: 1;
+}
+
+  body {
+
+background: no-repeat hsl(225, 100%, 94%) url("../images/pattern-background-desktop.svg");
+  background-size: 1350px 350px;
+  }
+
+p {
+  text-align: center;
+}
+h1 {
+  text-align: center;
+}
+h2 {
+  font-size: 18px;
+  position: relative;
+  left: 75px;
+  bottom: 75px;
+
+}
+
+button {
+  background-color: hsl(245, 75%, 52%);
+  border-radius: 10px;
+  border-color:  hsl(245, 75%, 52%);
+  color: white;
+  height: 40px;
+  width: 80%;
+  margin: 35px;
+  box-shadow: 0px 10px 10px hsl(225, 100%, 85%);
+}
+button:hover{
+  opacity:0.5;
+}
